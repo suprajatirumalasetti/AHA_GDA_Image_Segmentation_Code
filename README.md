@@ -19,6 +19,12 @@ The custom MATLAB code used to generate the results reported in the manuscript i
 4. Set this repository folder as the current working directory.
 5. Run `main.m`.
 
+## Outputs
+
+## Sample Images and Results
+
+A few sample images and one Excel result file are provided only for demonstration and verification purposes. The full datasets are publicly available and are not redistributed in this repository. Users can download the complete BSDS500 and NASA Earth Observatory datasets from their original sources and run the code to generate the remaining outputs.
+
 ## Note
 
 The repository includes only the code required for reproducing the proposed segmentation method. Dataset images, output images, and Excel result files are not included.
